@@ -1,0 +1,45 @@
+
+.inicio {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    background: linear-gradient(180deg, #1a1826,#413b5e);
+    padding: 20px 20px 20px;
+}
+
+.tituloContenedor {
+    padding: 80px;
+}
+
+.inicio p {
+    font-size: 2.5em;
+    color: #f1f1f1;
+}
+
+
+
+
+.ctaContenedor {
+    padding-top: 40px;
+}
+
+
+.botonLlamada {
+    margin: 10px;
+    padding: 17px 30px;
+    border-radius: 50px;
+    color: #acaeb8;
+    background-color: #3a457e;
+    box-shadow: #2e19a4d3 0 0 8px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.botonLlamada:hover {
+    letter-spacing: 3px;
+    background-color: #182fb5d3;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: #2e19a4d3 0px 7px 27px 0px;
+}
