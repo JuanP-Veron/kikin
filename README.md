@@ -1,16 +1,13 @@
 # KEKIN | Digital
 
 ## Build a professional online presence with React, Vite, CSS, JavaScript, and HTML
-
-![Descripción de la imagen](scr/assets/kikin.PNG)
-
 ## Screenshots
 
-![Screenshot](https://github.com/JuanP-Veron/kikin/assets/example-screenshot.png)
+![Screenshot](https://github.com/JuanP-Veron/kikin/scr/assets/kikin.PNG)
 
 ## Live Demo
 
-[KEKIN Digital](https://your-live-demo-link.com)
+[KEKIN Digital](https://juanp-veron.github.io/kikin/)
 
 ## Features
 
