@@ -3,7 +3,7 @@
 ## Build a professional online presence with React, Vite, CSS, JavaScript, and HTML
 ## Screenshots
 
-![Screenshot](https://github.com/JuanP-Veron/kikin/scr/assets/kikin.PNG)
+![Screenshot](https://github.com/JuanP-Veron/kikin/blob/master/src/assets/kikin.PNG)
 
 ## Live Demo
 
@@ -21,10 +21,10 @@
 
 | Color                     | Hex Code                                                             |
 |---------------------------|----------------------------------------------------------------------|
-| Background Color          | ![#1f242d](https://via.placeholder.com/10/1f242d?text=+) #1f242d    |
-| Secondary Background Color | ![#323946](https://via.placeholder.com/10/323946?text=+) #323946    |
-| Text Color               | ![#ffffffe2](https://via.placeholder.com/10/ffffffe2?text=+) #ffffffe2 |
-| Main Accent Color        | ![#00fbff](https://via.placeholder.com/10/00fbff?text=+) #00fbff      |
+| Background Color          |  #1f242d    |
+| Secondary Background Color | ! #323946    |
+| Text Color               | ! #ffffffe2 |
+| Main Accent Color        | ! #00fbff      |
 
 ## Getting Started
 
