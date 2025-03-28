@@ -155,14 +155,14 @@ const NavBar = () => {
 
   return (
     <div
-      className={
-        navBarOpen
-          ? styles.navOpen
-          : scrollPosition > 0
-          ? styles.NavOnScroll
-          : styles.NavBar
-      }
-    >
+  className={
+    navBarOpen
+      ? styles.NavOpen
+      : scrollPosition > 0
+      ? styles.NavOnScroll
+      : styles.NavBar
+  }
+>
       {!navBarOpen && <p className={styles.logo}>KEKIN | Digital</p>}
 
       {windowDimension.width < 800 && (
